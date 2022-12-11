@@ -43,6 +43,7 @@ return  a * b
 
 - State Border Committee Republic of Belarus 2017- august 2020.
 - LibraSoft september 2020- present time
+- SearchInform may 2022- present time
 
 ## Education and courses:
 
