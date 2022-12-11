@@ -1,0 +1,135 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+hr {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-color: rgb(114, 110, 110);
+  border-width: 1px;
+}
+
+.list-header {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(31, 31, 31);
+}
+
+a:hover {
+  color: rgb(233, 241, 233);
+}
+
+.nav {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif, sans-serif;
+  padding: 0 30px;
+  line-height: 15px;
+}
+
+.header {
+  background-color: rgb(201, 201, 201);
+  border-radius: 10px;
+  width: 1080px;
+  margin: 0 auto;
+  height: 50px;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+  min-height: 50px;
+  color: rgb(31, 31, 31);
+  font-family: "Times New Roman", Times, serif, sans-serif;
+}
+
+.photo {
+  display: flex;
+  width: 238px;
+  height: 332px;
+  margin-top: 10px;
+  margin-left: 35px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.heading {
+  font-size: 30px;
+}
+.username {
+  font-size: 48px;
+  margin: 0;
+}
+
+.full-text-about-me {
+  font-size: 20px;
+}
+
+.list {
+  font-size: 20px;
+}
+
+.example {
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.pro {
+  font-size: 20px;
+}
+
+.work {
+  font-size: 20px;
+}
+
+.edu {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.stage {
+  font-size: 20px;
+  list-style: none;
+}
+
+.course {
+  font-size: 20px;
+}
+
+.lang {
+  font-size: 20px;
+}
+
+.contact {
+  font-size: 20px;
+}
+
+.link {
+  float: left;
+  line-height: 120px;
+  font-size: 20px;
+  width: 320px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.footer {
+  width: 1080px;
+  margin: 0 auto;
+  height: 120px;
+}
+
+.footer :last-child {
+  margin-right: 0px;
+}
